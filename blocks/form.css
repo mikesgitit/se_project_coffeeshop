@@ -26,7 +26,6 @@
   width: 100%;
   border: none;
   padding: 20px 0;
-  border: 1px solid #838383;
   background-color: #1878dc;
   border-radius: 4px;
   margin-bottom: 32px;
@@ -48,15 +47,10 @@
   height: 20px;
   background-color: #1878dc;
   background-image: url(../images/check.svg);
-  margin-bottom: 100px;
 }
 
 .form__label_type_checkbox {
   display: flex;
   gap: 12px;
   justify-content: center;
-}
-
-.placeholder {
-  color: #838383;
 }
